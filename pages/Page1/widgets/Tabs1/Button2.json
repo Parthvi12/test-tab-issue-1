@@ -18,7 +18,7 @@
     "mobileRightColumn": 38,
     "animateLoading": true,
     "parentColumnSpace": 4.416015625,
-    "leftColumn": 22,
+    "leftColumn": 53,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -27,7 +27,7 @@
     "isDisabled": false,
     "key": "x9g2qzs3jm",
     "isDeprecated": false,
-    "rightColumn": 38,
+    "rightColumn": 64,
     "isDefaultClickDisabled": true,
     "widgetId": "n9tihc96ub",
     "minWidth": 120,
